@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo App Backend
+
+**Embryo App Backend** is Embryo-Zero's fork of [appwrite](https://github.com/appwrite/appwrite), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55a81268-4ecc-46cd-bdf5-73f7e8662fee" />
 
 <br />
